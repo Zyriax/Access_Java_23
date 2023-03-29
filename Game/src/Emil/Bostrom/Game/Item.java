@@ -1,4 +1,4 @@
-package uk.ac.cornwallcollege.emilbostrom.Game;
+package Emil.Bostrom.Game;
 
 public class Item {
     String name;

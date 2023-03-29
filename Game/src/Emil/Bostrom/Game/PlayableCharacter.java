@@ -1,4 +1,4 @@
-package uk.ac.cornwallcollege.emilbostrom.Game;
+package Emil.Bostrom.Game;
 
 public class PlayableCharacter extends Character {
 
@@ -11,8 +11,4 @@ public class PlayableCharacter extends Character {
         super(health, attack, defense, speed, size, name);
     }
 
-    @Override
-    public String toString() {
-        return name + " health: " + health + " mood: " + mood;
-    }
 }
